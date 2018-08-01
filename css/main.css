@@ -15,7 +15,7 @@ p{
   max-width: 100%; 
   width: 30%; 
   margin: 0 auto; 
-  text-align: center;
+  text-align: justify;
 }
 .header{
   font-weight: normal; 
@@ -42,19 +42,19 @@ p{
     padding: 3px 3px;
     text-decoration: none;
 }
-.contact ul li a.telegram:hover{
+.telegram:hover{
     background-color: #0088cc;
     color:white;
 }
-.contact ul li a.twitter:hover{
+.twitter:hover{
     background-color: #1da1f2;
     color: #f5f8fa;
 }
-.contact ul li a.github:hover{
+.github:hover{
     background-color:#333;
     color:#f5f5f5;
 }
-.contact ul li a.linkedin:hover{
+.linkedin:hover{
     background-color: #0077b5;
     color:white;
 }
