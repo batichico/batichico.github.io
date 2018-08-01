@@ -29,10 +29,10 @@ p{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #6c845b;
 }
 .contact li {
     float: left;
+    background-color: #6c845b;
 }
 .contact ul li a{
     display: block;
