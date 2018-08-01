@@ -23,7 +23,7 @@ p{
   font-size: 180%; 
 }
 .contact ul {
-	  max-width: .container.width; 
+    max-width: .container.width; 
     width: auto;
     list-style-type: none;
     margin: 0;
@@ -37,12 +37,25 @@ p{
 .contact ul li a{
     display: block;
     text-align: center;
-    color:black;
     width: 100%;
     padding: 3px 3px;
     text-decoration: none;
 }
+.telegram:hover{
+    background-color: blue;
+}
+.twitter:hover{
+    background-color: blue;
+}
+.github:hover{
+    background-color: black;
+}
+.linkedin:hover{
+    background-color: black;
+}
+/*
 li a:hover {
-   /* background-color: #e5e5ce;*/
+   background-color: #e5e5ce;
    background-color:red;
 }
+*/
