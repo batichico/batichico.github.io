@@ -42,19 +42,19 @@ p{
     padding: 3px 3px;
     text-decoration: none;
 }
-.telegram:hover{
+.contact ul li a.telegram:hover{
     background-color: #0088cc;
     color:white;
 }
-.twitter:hover{
+.contact ul li a.twitter:hover{
     background-color: #1da1f2;
     color: #f5f8fa;
 }
-.github:hover{
+.contact ul li a.github:hover{
     background-color:#333;
     color:#f5f5f5;
 }
-.linkedin:hover{
+.contact ul li a.linkedin:hover{
     background-color: #0077b5;
     color:white;
 }
