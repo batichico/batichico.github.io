@@ -29,11 +29,9 @@ p{
     padding: 0;
     overflow: hidden;
     background-color: #6c845b;
-    width: 100%; 
 }
 .contact li {
     float: left;
-    width: 25%;
 }
 .contact ul li a{
 	display: block;
