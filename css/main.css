@@ -23,6 +23,8 @@ p{
   font-size: 180%; 
 }
 .contact ul {
+	  max-width: .container.width; 
+    width: auto;
     list-style-type: none;
     margin: 0;
     padding: 0;
