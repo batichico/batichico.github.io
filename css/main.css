@@ -30,6 +30,9 @@ section.info ul{list-style-image:url('files/robot-solid.svg'); list-style: none;
 section.info ul li {font-size: 14px; padding: 0 10px; }
 section.info ul li a{ text-decoration: none; color: #efffef; transition: all .2s;  }
 
+div.robotImage {
+   content:src="files/robot-solid.svg";
+}
 .robot:hover{
    color:#0088cc;
 }
