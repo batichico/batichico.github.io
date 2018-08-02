@@ -1,15 +1,16 @@
 body{ 
   background: #879e76; 
-  color: #efffef;
+  color: #d2ddd2;
   font-family: Arial, Helvetica, sans-serif;
 }
 h1{ 
-   font-weight: normal; 
+   font-weight: bold;
    font-family: Arial, Helvetica, sans-serif; 
-   font-size: 30px; 
+   font-size: 20px; 
+   color: #efffef;
 }
 p{ 
-  font-size: 16px; 
+  font-size: 14px; 
 }
 .container{ 
  
@@ -17,28 +18,16 @@ p{
   margin: 0 auto; 
   text-align: justify;
 }
+
+
 .header h1{
   font-weight: normal; 
   font-family: Arial, Helvetica, sans-serif; 
   font-size: 50px; 
 }
-section.contact ul{ 
-  list-style: none; 
-  margin: 0; 
-  padding: 0; 
-  display: 
-  inline-block; 
-}
-section.contact ul li{ 
-  float: left; 
-  font-size: 36px; 
-  padding: 0 10px; 
-}
-section.contact ul li a{ 
-  text-decoration: none; 
-  color: #efffef; 
-  transition: all .3s;  
-}
+section.contact ul{ list-style: none; margin: 0; padding: 0; display: inline-block; }
+section.contact ul li{ float: left; font-size: 36px; padding: 0 10px; }
+section.contact ul li a{ text-decoration: none; color: #efffef; transition: all .2s;  }
 
 .fa-telegram:hover{
     color:#0088cc;
