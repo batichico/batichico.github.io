@@ -22,39 +22,25 @@ p{
   font-family: Arial, Helvetica, sans-serif; 
   font-size: 50px; 
 }
-.contact ul {
-    max-width: .container.width; 
-    width: auto;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-}
-.contact li {
-    float: left;
-    background-color: #6c845b;
-}
-.contact ul li a{
-    display: block;
-    color:#efffef;
-    text-align: center;
-    width: 100%;
-    padding: 3px 3px;
-    text-decoration: none;
-}
-.telegram:hover{
+section.contact ul{ list-style: none; margin: 0; padding: 0; display: inline-block; }
+section.contact ul li{ float: left; font-size: 36px; padding: 0 10px; }
+section.contact ul li a{ text-decoration: none; color: #ccc; transition: all .2s;  }
+
+a{text-decoration: none; color: #EEE; font-weight: bold;}
+a:hover{color: #999;}
+.fa-telegram:hover{
     background-color: #0088cc;
     color:white;
 }
-.twitter:hover{
+.fa-twitter:hover{
     background-color: #1da1f2;
     color: #f5f8fa;
 }
-.github:hover{
+.fa-github:hover{
     background-color:#333;
     color:#f5f5f5;
 }
-.linkedin:hover{
+.fa-linkedin:hover{
     background-color: #0077b5;
     color:white;
 }
