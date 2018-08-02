@@ -26,16 +26,16 @@ p{
   font-size: 50px; 
 }
 
-section.info ul{list-style: none; margin: 0; padding: 0;}
+section.info ul{list-style-image:url('files/robot-solid.svg'); list-style: none; margin: 0; padding: 0;}
 section.info ul li {font-size: 14px; padding: 0 10px; }
 section.info ul li a{ text-decoration: none; color: #efffef; transition: all .2s;  }
-
+/*
 .robot{
    content: url('files/robot-solid.svg');
 }
 .robot:hover{
    color:#0088cc;
-}
+}*/
 
 section.contact ul{ list-style: none; margin: 0; padding: 0; display: inline-block; }
 section.contact ul li{ float: left; font-size: 36px; padding: 0 10px; }
