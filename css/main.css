@@ -33,6 +33,13 @@ p{
   font-size: 50px; 
 }
 
+.rest{
+  border: 2px solid yellow;
+  border-radius: 12px;
+  margin-left:5px;
+  margin-right:5px;
+}
+
 section.info ul{list-style-image:url('files/robot-solid.svg'); list-style: none; margin: 0; padding: 0;}
 section.info ul li {font-size: 14px; padding: 0 10px; }
 section.info ul li a{ text-decoration: none; color: #efffef; transition: all .2s;  }
