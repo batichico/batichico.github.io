@@ -1,6 +1,6 @@
 body{ 
   background: #879e76; 
-  color: #343a30;
+  color: #5c635c;
   font-family: Arial, Helvetica, sans-serif;
 }
 h1{ 
@@ -42,7 +42,6 @@ p{
   margin-left:20px;
   margin-right:5px;
 }
-
 .info li {
   margin-left:25px;
   margin-right:5px;
@@ -52,6 +51,11 @@ section.info ul{list-style-image:url('files/robot-solid.svg'); list-style: none;
 section.info ul li {font-size: 14px; padding: 0 10px; }
 section.info ul li a{ text-decoration: none; color: #efffef; transition: all .2s;  }
 
+section.info a {
+   text-decoration: none; 
+   color:#efffef;
+   transition: all .2s;
+}
 .robot:hover{
    color:#0088cc;
 }
@@ -65,6 +69,10 @@ section.contact ul li a{ text-decoration: none; color: #efffef; transition: all 
 
 .fa-telegram:hover{
     color:#0088cc;
+}
+.fa-telegram:hover ~ .rest{
+	border: 2px solid #0088cc;
+  	border-radius: 12px;
 }
 .fa-github:hover{
     color:#333;
