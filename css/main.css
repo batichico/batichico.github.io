@@ -34,6 +34,12 @@ p{
 .contact{
   text-align: center;
 }
+.info h1 {
+  margin-left:5px;
+}
+.info p {
+  margin-left:10px;
+}
 
 section.info ul{list-style-image:url('files/robot-solid.svg'); list-style: none; margin: 0; padding: 0;}
 section.info ul li {font-size: 14px; padding: 0 10px; }
