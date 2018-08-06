@@ -35,10 +35,12 @@ p{
   text-align: center;
 }
 .info h1 {
-  margin-left:5px;
+  margin-left:10px;
+  margin-right:5px;
 }
 .info p ul {
-  margin-left:10px;
+  margin-left:15px;
+  margin-right:5px;
 }
 
 section.info ul{list-style-image:url('files/robot-solid.svg'); list-style: none; margin: 0; padding: 0;}
