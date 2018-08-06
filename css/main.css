@@ -14,7 +14,7 @@ p{
 }
 .container{ 
   margin-top: 5px; 
-  border: 2px solid red;
+  border: 2px solid #e5efd2;
   border-radius: 12px;
   width: 400px; 
   margin: 0 auto; 
@@ -23,8 +23,6 @@ p{
 
 
 .header h1{
-  border: 2px solid blue;
-  border-radius: 12px;
   font-weight: normal; 
   font-family: Arial, Helvetica, sans-serif; 
   font-size: 50px; 
