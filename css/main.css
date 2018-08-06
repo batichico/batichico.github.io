@@ -39,6 +39,9 @@ section.info ul li a{ text-decoration: none; color: #efffef; transition: all .2s
 .robot:hover{
    color:#0088cc;
 }
+.boteros:hover{
+   color:#333;
+}
 
 section.contact ul{ list-style: none; margin: 0; padding: 0; display: inline-block; }
 section.contact ul li{ float: left; font-size: 36px; padding: 0 10px; }
