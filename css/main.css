@@ -13,6 +13,7 @@ p{
   font-size: 14px; 
 }
 .container{ 
+  margin-top: 5px; 
   border: 2px solid red;
   border-radius: 12px;
   width: 400px; 
