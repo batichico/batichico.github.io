@@ -38,6 +38,7 @@ p{
   border-radius: 12px;
   margin-left:5px;
   margin-right:5px;
+  text-align: center;
 }
 
 section.info ul{list-style-image:url('files/robot-solid.svg'); list-style: none; margin: 0; padding: 0;}
