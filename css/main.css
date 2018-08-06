@@ -14,8 +14,6 @@ p{
 }
 .container{ 
   margin-top: 5px; 
-  border: 2px solid #e5efd2;
-  border-radius: 12px;
   width: 400px; 
   margin: 0 auto; 
   text-align: justify;
