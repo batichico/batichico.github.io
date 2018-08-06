@@ -46,10 +46,19 @@ section.contact ul li a{ text-decoration: none; color: #efffef; transition: all 
 
 .fa-telegram:hover{
     color:#0088cc;
+  .rest{
+    color:#0088cc;
+  }
 }
 .fa-github:hover{
     color:#333;
+   .rest{
+    color:#0088cc;
+  }
 }
 .fa-linkedin:hover{
     color:#0077b5;
+   .rest{
+    color:#0088cc;
+  }
 }
