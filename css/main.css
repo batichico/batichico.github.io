@@ -31,6 +31,10 @@ p{
   border-radius: 12px;
 }
 
+.contact{
+  text-align: center;
+}
+
 section.info ul{list-style-image:url('files/robot-solid.svg'); list-style: none; margin: 0; padding: 0;}
 section.info ul li {font-size: 14px; padding: 0 10px; }
 section.info ul li a{ text-decoration: none; color: #efffef; transition: all .2s;  }
