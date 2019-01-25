@@ -87,3 +87,6 @@ section.contact ul li a{ text-decoration: none; color: #efffef; transition: all 
 .fa-python:hover{
     color:#4584b6;
 }
+.fa-java:hover{
+    color:#ff0000;
+}
