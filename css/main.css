@@ -84,3 +84,6 @@ section.contact ul li a{ text-decoration: none; color: #efffef; transition: all 
 .fa-stack-overflow:hover{
     color:#f48024;
 }
+.fa-python:hover{
+    color:#4584b6;
+}
