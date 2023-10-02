@@ -1,2 +1,2 @@
-# segoitz-guibert.github.io
+# batichiico.github.io
 Portfolio
